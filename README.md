@@ -13,11 +13,11 @@ This repository contains JavaScript code I designed to run on Google's AppScript
 ## 🛠️ How to Set Up
 
 1. **Google AppScript Introduction**:
-   If you're unfamiliar with Google AppScript, it's recommended to start with [Google's official documentation](https://developers.google.com/apps-script).
+   If you're unfamiliar with Google AppScript, I recommended to start with [Google's official documentation](https://developers.google.com/apps-script).
 
 2. **Clone the Repository**:
    ```bash
-   git clone [YOUR REPO URL HERE]
+   git clone https://github.com/Jiwoo717/Sheets-Duplicator.git
 
 3. **Run the Appscript Extension**
    Have your sheet ready and run the script.
