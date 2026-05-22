@@ -4,6 +4,7 @@ This repository contains JavaScript code I designed to run on Google's AppScript
 
   1. Script for duplicating Google Sheets and renaming them.
   2. A time-based trigger for creating a new trigger that runs monthly, preparing your budget sheets for the upcoming month.
+   
    (You can technically use appscripts built-in trigger feature by itelf, but i've ran into issues where the trigger fails and it notifies me, but doesn't have a feature to re-run. This code ensures that old trigger is          deleted and then a new one is replaced. I find it reduces failed runs because a fresh trigger is applied every month.)
 
 ## 🚀 Features
